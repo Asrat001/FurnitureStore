@@ -1,8 +1,8 @@
 "use client";
 
-import { Footer } from "@/Compontes/Footer";
-import { Hero } from "@/Compontes/Hero";
-import { ProductSection } from "@/Compontes/ProductSection";
+import { Footer } from "@/components/Footer";
+import { Hero } from "@/components/Hero";
+import { ProductSection } from "@/components/ProductSection";
 
 export default function Home(){
   

@@ -1,6 +1,6 @@
 'use client'
 
-import Modal from '@/lib/Modal'
+import Modal from '@/components/Modal'
 import { ProductImageList } from '@/lib/utils'
 import Image from 'next/image'
 import React, { useState } from 'react'
